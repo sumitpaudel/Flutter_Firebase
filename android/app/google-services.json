@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "60335320081",
+    "project_id": "fluttersign-69bff",
+    "storage_bucket": "fluttersign-69bff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60335320081:android:10550d0df8829c37e855b0",
+        "android_client_info": {
+          "package_name": "com.deliciafernandes.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60335320081-aqjt4v9daigkbedid9n0satv46shr70h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deliciafernandes.task",
+            "certificate_hash": "d16863f9225a8f8b5235611de7c1436f4ce95402"
+          }
+        },
+        {
+          "client_id": "60335320081-3qvvms5fsstsvjkd26pgtomnhpf3t1au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVk4iODNKxjmnATOKSy29puiAZoa6YXFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60335320081-3qvvms5fsstsvjkd26pgtomnhpf3t1au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
